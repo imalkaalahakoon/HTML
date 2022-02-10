@@ -1,0 +1,375 @@
+<HTML>
+<HEAD>
+
+</HEAD>
+<title> ATI - KEGALLE</title>
+
+<body bgcolor = LightGray>
+<div>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: , Helvetica, sans-serif;}
+
+.navbar {
+  width: 100%;
+  background-color: #b30000; 
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 17px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 10px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width:160px ;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+
+
+
+</style>
+<body background="back.jpg" link="green" vlink="blue" alink="red">
+
+<a name ="topplace"></a>
+
+<div  style="background-color:darkred"><div align="center"><img src="logo.jpeg" height=75 width=50> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ministrylogo.png"height=75 width=175></div><font color="white"><div align="center">&nbsp;&nbsp;&nbsp;SRI LANKA INSTITUTE OF ADVANCED TECHNOLOGICAL INSTITUTE - KEGALLE<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ශ්‍රී ලංකා උසස් තාක්ෂණ අධ්‍යාපන ආයතනය - කෑගල්ල<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;மேம்பட்ட தொழில்நுட்பக் கல்வி நிறுவனம், இலங்கை - கேகாலை</div></font></div> 
+<div align="right" style="background-color:#8B0000" >
+<font color="darkred">
+<marquee  direction="LEFT" bgcolor="#FF8C00">*WELCOME TO SLIATE*&nbsp; &nbsp;&nbsp; &nbsp;SRI Lanka Institute of Advanced Technological Education-KEGALLE</marquee>
+</font>
+
+
+<div class="navbar" align=>
+
+
+
+<a  class="active" href="file:///C:/Users/Imalka%20Alahakoon/Desktop/html%20assignment/Home%20Page/SLIATE.html"> <font color="white"><i class="fa fa-fw fa-home"></i> Home </font></a>
+
+<div class="dropdown">
+    <button class="dropbtn"><i class="fa fa-fw fa-pencil"></i> Courses 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="HNDA.html">HNDA</a>
+      <a href="HNDIT.html">HNDIT</a>
+      <a href="HNDE.html">HNDE</a>
+	  <a href="HNDPM.html">HNDPM</a>
+
+    </div>
+</div>
+
+
+
+<div class="dropdown">
+    <button class="dropbtn"><i class="fa fa-fw fa-pencil"></i>Pastpapers 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="HNDA Past Papers.html">HNDA</a>
+      <a href="HNDIT Past Papers.html">HNDIT</a>
+      <a href="HNDE Past Papers.html">HNDE</a>
+	  
+    </div>
+</div>
+
+
+<a href="Student Registration.html"> <font color="white"><i class="fa fa-fw fa-user"></i>Student Registration</font> </a>
+<a href="News.html"> <font color="white"><i class="fa fa-fw fa-news"></i>News</font> </a>
+<a href="Image Gallery.html"> <font color="white"><i class="fa fa-fw fa-photo"></i>Image Gallery</font> </a>
+<a href="About us.html"> <font color="white"><i class="fa fa-fw fa-book"></i>About us</font> </a>
+<a href="Contact us.html"> <font color="white"><i class="fa fa-fw fa-envelope"></i>Contact us</font> </a>
+
+
+</div>
+</div>
+
+</div>
+
+
+<div align=center>
+<img src = "ati3.jpeg" height = 700  width = 100% align = center>
+</div>
+<br></br>
+
+
+<div align="center" style="background-color:#7297FF"><table bgcolor=#ffffff width=95% height=300 background="v background.jpg"><br></br>
+<font color="darkblue" size=6 face="Times New Roman" ><b>OUR VISION & MISSION</b></font><br></br>
+<tr><th><img src=" vision.png " height="150" width="150"><br><font face="Iskoola Pota "><p> "To Become the Centre of<br> Excellence in Technological<br> Education"</p></font></th><br><br>
+<th><img src="mission.png" height="150" width="150"><br><font face="Iskoola Pota " ><p>"Creating Excellent Higher<br> National and National<br> Diplomates with Modern<br> Technology for Sustainable <br>Development" </p> </th></tr></table></font>
+ 
+ </br>
+</div>
+
+<div align="center">
+<h1 align="center"><font color="darkblue" size=6 face="Times New Roman" ><b>OTHER SLIATE INSTITUIONS IN SRI LANKA</b></font></h1>
+</div>
+<table border="0" width="100%">
+<tr>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/ati/ampara-hardy" ><img src="am1.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="https://atibadulla.edu.lk/" ><img src="bd.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/ati/colombo" ><img src="co.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/ati/galle" ><img src="gl.jpeg" height="200" width="300"></a></td>
+
+</tr>
+<tr>
+<td><a target="-blank" href="http://jaffna.sliate.ac.lk/index.php/en/" ><img src="jf.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/ati/kurunagala" ><img src="kd.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="https://www.trincoati.com/" ><img src="tr.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/ati/gampaha" ><img src="na.jpg" height="200" width="300"></a></td>
+
+
+</tr>
+
+<tr>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/sections/nawalapitiya"><img src="nw.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/sections/rathnapura" ><img src="ra.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/sections/samanthurai" ><img src="sam.jpg" height="200" width="300"></a></td>
+<td><a target="-blank" href="http://www.sliate.ac.lk/institute/sections/tangalle" ><img src="tn.jpg" height="200" width="300"></a></td>
+
+
+</tr>
+</table>
+<br></br>
+<table border=1 align="center"   cellpadding=30 width=400 height="100">
+ <caption><h1>FACILITIES</h1></caption>
+    <tr>
+	    <td bgcolor="green" colspan=3 valign="bottom" height=10 ><div align="center" > CANTEENS</div></td>
+    </tr>
+	<tr>
+		<td ><img src="canteen.jpg" height="250" width="300"><br><font color="blue">The cafeteria offer meals and beverages (Breakfast, Lunch, Dinner and refreshments) to students and employees at affordable rates with a broad selection of verities.  The canteens are available in all ATIs</font>
+		
+	   </td>
+	</tr>
+</table>
+<br>
+<br>
+
+
+<table  border=1 align=center  cellspacing=5 cellpadding=30 width=400 height="100">	
+    <tr>
+	    <td  bgcolor="yellow" colspan=3 valign="bottom" height=10 ><div align="center">STUDENT HOSTELS</div></td>
+    </tr>
+	<tr>
+		<td> <img src="hostels.jpg"  height="300" width="300" >
+	
+Hostel facilities are supplied for a limited number of students by the some ATIs. These hostels are situated in the ATI premises and outside.
+		
+	   </td>
+	</tr>
+</table>
+<br>
+<br>	
+<table  border=1 align=center  cellspacing=5 cellpadding=30 width=400 height="100">	
+	
+	<tr>
+	    <td bgcolor="#1E90FF" colspan=3 valign="bottom" height=10 ><div align="center">STUDENT COUNSELING</div></td>
+	</tr>
+    <tr>	
+		<td> <img src="counceling.jpg" alt="counseling" height="300" width="300"><br>
+Members of the academic staff have been appointed to advise the students on day to day problems, matters relating to courses and examinations. The students can meet the counselors during the allocated hours for the counseling. The details of counselors will be displayed by the Institutes.
+		
+	   </td>
+	</tr>
+</table>	
+<br>
+<br>
+	
+<table  border=1 align=center  cellspacing=5 cellpadding=30 width=400 height="100">	
+	<tr>
+	    <td bgcolor="#20B2AA"  colspan=3 valign="bottom" height=10><div align="center">SPORTS AND GAMES</div></td>
+	</tr>
+	<tr>
+		<td> <img src="sport.jpg" height="300" width="300"><br>
+Sport facilities are available in each ATI’s. Indoor and Outdoor sport facilities are available for students. These sporting facilities include Cricket, Volleyball, Netball, carom, chess and athletics. The playground is situated in a very beautiful atmosphere. Students can use these facilities to improve their mental wellbeing and physical which will help them to maintain a healthy life style.
+
+There is an annual Inter ATI Sports day in which students can prove their talents.
+		
+	   </td>
+	</tr>
+</table>
+<br>
+<br>
+
+<table  border=1 align=center  cellspacing=5 cellpadding=20 width=400 height="100">
+	
+	<tr>
+	    <td   bgcolor="#C71585"colspan=3 valign="bottom" height=10 ><div align="center">OTHER FACILITIES</div></td>
+	</tr>
+    <tr>
+	  <td> <img src="other.jpg" alt="otherfacilities" height="300" width="300"> <br>
+	   <ul>
+         <li>Mahapola Scholarships</li>
+         <li>Language cum IT laboratories with multimedia facilities and workshop facilities etc.</li>
+         <li> Library and Internet facilities</li>
+         <li>In-plant Training and Industrial visits</li>
+         <li> Bus/Train concessionary season</li>
+		</ul>
+		
+	   </td>
+	</tr>
+</table>
+
+
+
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
+<div align="left" style="background-color:#690000"height=150 width=100%> <font color="white"></font></div> 
+<div align="left" style="background-color:#690000" >
+<font color="white">
+<table    width=100% height=40>
+  <tr height=60>
+    <th align="left"><font color="white">Useful Links</font> </th><th align="left"><font color="white">like on us</font></th><th align="left"><font color="white">Contact Details </font></th></font>
+  </tr>
+
+   <tr>
+      <td><a href="SLIATE.html"> <font color=white face="arial"> *Home </font></a>&nbsp; &nbsp;</td> <td><a href="https://www.facebook.com/it.stu.asso.keg/"><img src="face.png" height="30" width="30"></a>&nbsp;
+	 <a href="https://www.instagram.com/sliateofficial"><img src="insta.png"height="30" width="30"></a>&nbsp;
+	 <a href="https://www.youtube.com/channel/UCJJJCxCU9FDbyGmOfWfzdpA"><img src="you.png"height="27" width="27"></a>&nbsp;
+	 <a href="https://www.twitter.com/sliateofficial"><img src="twitter.png" height="30" width="30"></a>&nbsp;
+	 <a href="https://www.linkedin.com/school/sliate/" ><img src="in.png" height="30" width="30"></a></td> <td><b><u><font color="white">Address</u> :-</b></font></td> 
+   </tr>
+  
+  <tr >
+    <td><a href="https://atikegalle.com/uploads/1525756441.pdf"> <font color=white face="arial"> *Application Download </font></a>&nbsp; &nbsp;</td> <td><font color="white" face="arial"></font></td><td><font color="white">Advanced Technological Institute,</font></td> 
+  </tr>
+  
+  <tr>
+     <td><a href="News.html"> <font color=white face="arial"> *News </font></a>&nbsp; &nbsp;</td> <td></td> <td> <font color=white face="arial">  Bandaranayaka Avenue, </font> </td> 
+  </tr>
+  
+  <tr>
+     <td><a href="About us.html"> <font color=white> *About Us </font></a>&nbsp; &nbsp;</td> <td></td> <td><font color=white face="arial">Kegalle.</font></td> 
+  </tr>
+  
+   <tr>
+     <td><a href="Contact us.html"> <font color=white> *Contact Us</font></a>&nbsp; &nbsp;</td> <td></td>  <td><b><u><font color=white face="arial">Local:</font></u></b><font color="white"> 035 2 221 297 </font></td> 
+  </tr>
+  </tr>
+ <tr>
+     <td><a href="home.html"> <font color=white></font></a>&nbsp; &nbsp;</td> <td></td> <td><b><u><font color=white face="arial">email:-</font></u></b><br><font color="white">atikegalle@sliate.ac.lk</font></td>
+  </tr><br>
+  <tr>
+     <td>   </td> <td></td> 
+
+  </table>
+  
+  
+  <hr>
+  <div align="center">Copyright &copy;2022- Designed and Developed by SLIATE</div>
+ </div>
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</HTML>
